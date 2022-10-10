@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fpatricio1@proton.me
+	name = Francisco Patricio
